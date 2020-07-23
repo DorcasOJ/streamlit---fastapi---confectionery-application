@@ -2,9 +2,10 @@
 
 This is a application that renders a list of food that's available in the store to buyers to make order 
 It also allows the owner to add new items and edit former items to the database.
+
 https://casdore.github.io/streamlit---fastapi---confectionery-application
 
-The application includes;
+It includes;
 
 requirement.txt -- it includes all needed library for the project.
 database.py -- it includes all code to create the database
