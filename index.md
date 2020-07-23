@@ -17,7 +17,7 @@ Your browser does not support the video tag.
 <p>
   
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1X9Pj2tmjvmlNbgYq5BF-vWlQExtJUH06/view?usp=drivesdk" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <p>
