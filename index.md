@@ -7,5 +7,5 @@
 <p>This is a application that renders a list of food that's available in the store for buyers to make order.</p> 
 <p>It also allows the owner to add new items and edit former items to the database.</p>
 <p>There is the streamlit UI for the application</p>
-<p>Click<a href='https://github.com/casdore/streamlit---fastapi---confectionery-application'>here</a> to back to github repository.</p>
+<p>Click <a href='https://github.com/casdore/streamlit---fastapi---confectionery-application'>here</a> to back to github repository.</p>
 
