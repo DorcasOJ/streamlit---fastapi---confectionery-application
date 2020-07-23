@@ -1,6 +1,6 @@
  <p>
 <figure class="video_container">
-  <iframe width="400" src="https://drive.google.com/file/d/1X9Pj2tmjvmlNbgYq5BF-vWlQExtJUH06/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="350" src="https://drive.google.com/file/d/1X9Pj2tmjvmlNbgYq5BF-vWlQExtJUH06/previewautoplay=1" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 </p>
  
