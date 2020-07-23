@@ -2,3 +2,6 @@ fastapi
 uvicorn
 streamlit
 sqlalchemy
+numpy
+pandas
+datetime
