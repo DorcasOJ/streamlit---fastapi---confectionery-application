@@ -9,5 +9,3 @@ requirement.txt -- it includes all needed library for the project.
 database.py -- it includes all code to create the database
 server.py -- it includes the back-end code for the application. This make use of fastapi to connects the front-end (streamlit.py) to the database
 main.py -- it includes the front-end for the application. It make use of streamlit.
-
-https://github.com/casdore/streamlit---fastapi---confectionery-application/blob/master/confectionery%20-%20application/streamlit.png
