@@ -7,7 +7,7 @@
 <p>There is the streamlit UI for the application</p>
 <p>Here is a <a href='https://github.com/casdore/streamlit---fastapi---confectionery-application'>link</a> to my git repository.</p>
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1X9Pj2tmjvmlNbgYq5BF-vWlQExtJUH06/view?usp=drivesdk" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1X9UP6Tip7duYm05ZXPrgM1eeyiY0aXaf/view?usp=drivesdk" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
