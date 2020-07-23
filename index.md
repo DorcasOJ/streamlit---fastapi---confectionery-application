@@ -9,12 +9,18 @@
 <p>There is the streamlit UI for the application</p>
 <p>Here is a <a href='https://github.com/casdore/streamlit---fastapi---confectionery-application'>link</a> to my git repository.</p>
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1X9UP6Tip7duYm05ZXPrgM1eeyiY0aXaf/view?usp=drivesdk" type="video/mp4">
+  <source src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <a href="https://drive.google.com/file/d/1X9Pj2tmjvmlNbgYq5BF-vWlQExtJUH06/view?usp=drivesdk" title="Streamlit UI"><img src="https://drive.google.com/file/d/1X9UP6Tip7duYm05ZXPrgM1eeyiY0aXaf/view?usp=drivesdk" alt="streamlit image" /></a>
- 
+<p>
+  
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<p>
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
