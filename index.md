@@ -1,7 +1,9 @@
 <h1>Hello there</h1>
 <body>
 ![Semantic description of image](https://drive.google.com/file/d/1X9UP6Tip7duYm05ZXPrgM1eeyiY0aXaf/view?usp=drivesdk)*My caption*
-
+<img alt="UI picture" src="https://drive.google.com/file/d/1X9UP6Tip7duYm05ZXPrgM1eeyiY0aXaf/view?usp=drivesdk"
+         width=150" height="70">
+                               
 <p>This is a application that renders a list of food that's available in the store for buyers to make order.</p> 
 <p>It also allows the owner to add new items and edit former items to the database.</p>
 <p>There is the streamlit UI for the application</p>
